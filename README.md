@@ -18,15 +18,7 @@ I am currently a Master's student in Computer Science at USC, specializing in bo
 
 ### 2022 International Student Car Contest (Self-driving Category)
 
-* **핵심 역할:** Perception 팀 리더 및 자율주행 시스템 미세 조정
-* **기술 스택:** Python, YOLO v4, PID/Pure Pursuit
-* **주요 성과:**
-    * 19만 8천 개 이미지를 라벨링하여 YOLO v4 탐지 정확도를 98.7% mAP로 향상시켰습니다.
-    * PID 및 Pure Pursuit 알고리즘을 개선하여 차량 속도 진동을 65% 감소시켰습니다.
-
-> **📸 프로젝트 사진 첨부 공간**
-> ![자율주행차 테스트 사진]([사진 파일의 URL 주소])
-
+<img src="https://github.com/user-attachments/assets/127e1278-cb10-4ee8-8b0d-e42a385ad227" width="550" height="300" alt="Car contest"/>
 
 
 ## 🛠️ Tech Stack & Expertise
@@ -38,11 +30,6 @@ I am currently a Master's student in Computer Science at USC, specializing in bo
 
 ---
 
-## 📊 My GitHub Stats
-
-[![AEJIN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aejin1211&show_icons=true&theme=default)](https://github.com/aejin1211)
-
----
 
 ## 🔗 Connect with me
 
