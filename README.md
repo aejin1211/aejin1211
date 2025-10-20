@@ -27,18 +27,12 @@ I am currently a Master's student in Computer Science at USC, specializing in bo
 
 
 ## 🛠️ Skills & Technologies
+* Programming: Python, C++, JavaScript, TypeScript, HTML, CSS, Next.js, React, TailwindCSS, MongoDB, Swift, ROS, Linux
+* Machine Learning: TensorFlow, Keras, PyTorch
+* Tools: Git, Docker, CI/CD
 
-| Category | Skills |
-| :--- | :--- |
-| **Web & Backend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Robotics & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) |
-
----
 
 
 ## 🔗 Connect with me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aejin-lee) |
-| **Email** | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aejinlee00@gmail.com) |
+* [LinkedIn](www.linkedin.com/in/aejin-lee)
+* Email: [aejinlee00@gmail.com](mailto:aejinlee00@gmail.com)
