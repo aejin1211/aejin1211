@@ -5,20 +5,19 @@ I am currently a Master's student in Computer Science at USC, specializing in bo
 ## Full-Stack Web Development
 
 ### [Caribbean Automobiles](https://www.caribbeanautomobiles.com/) (Co-founder & Full Stack Software Engineer)
-<img width="550" height="300" alt="Caribbean Automobiles" src="https://github.com/user-attachments/assets/b6d78280-6e69-4ea6-9e8d-7ef46562b39a" />
+<img width="450" height="300" alt="Caribbean Automobiles" src="https://github.com/user-attachments/assets/b6d78280-6e69-4ea6-9e8d-7ef46562b39a" />
 
 ---
 ## Robotics
 
 ### Autonomous Agricultural Robot Deployment (Rendezvue, Inc. / Software Engineer)
-<img width="300" height="450" alt="Rendezvue robot" src="https://github.com/user-attachments/assets/c6de44f2-c8e1-4efb-ad7c-826bc5beaf44" />
+<img width="250" height="300" alt="Rendezvue robot" src="https://github.com/user-attachments/assets/c6de44f2-c8e1-4efb-ad7c-826bc5beaf44" />
 
 
----
 
-### 2022 International Student Car Contest (Self-driving Category)
+### 2022 International Student Car Contest, Self-driving Category (Perception Team Leader)
 
-<img src="https://github.com/user-attachments/assets/127e1278-cb10-4ee8-8b0d-e42a385ad227" width="550" height="300" alt="Car contest"/>
+<img src="https://github.com/user-attachments/assets/127e1278-cb10-4ee8-8b0d-e42a385ad227" width="450" height="300" alt="Car contest"/>
 
 
 ## 🛠️ Tech Stack & Expertise
